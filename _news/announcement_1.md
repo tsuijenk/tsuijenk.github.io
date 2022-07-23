@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-03-31
 inline: true
 ---
 
-A simple inline announcement.
+Jenkin Tsui presented his latest results on NucleiSeg at BIGX 2021 Conference. NucleiSeg is an unsupervised hierarhical Bayesian approach that robustly segments nuclei from tumour images of diverse tissue types.

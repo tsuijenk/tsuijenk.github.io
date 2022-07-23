@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-06-20
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Jenkin successfully passed his comprehensive exam and defended his PhD proposal. He is officially a PhD Candidate! :sparkles: :smile:
