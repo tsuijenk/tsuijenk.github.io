@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: ScholarsX
+description: A tutoring startup that focuses on providing educational services and consultancy through Ivy League students and alumnus
+img: assets/img/scholarsx_2.png
+redirect: https://scholarsx.ca
 importance: 4
 category: fun
 ---

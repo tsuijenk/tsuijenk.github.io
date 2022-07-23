@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
+title: FANTOM6
+description: Probing into the secondary structures of long non-coding RNAs
+img: assets/img/fantom6_1.png
+importance: 3
 category: work
 ---
 

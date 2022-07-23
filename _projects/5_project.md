@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: XPlane Simulation
+description: Virtual Cathay Pacific with the idealized flights
+img: assets/img/cx_sim.jpeg
 importance: 3
 category: fun
 ---

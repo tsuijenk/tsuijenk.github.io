@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
+title: Optimal Estimating Equation
+description: Optimal Estimating Equation for Logistic Regression with Linked Data
+img: assets/img/oee.png
+importance: 4
 category: work
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: NucleiSeg
+description: An unsupervised approach for segmenting nuclei from tumour images
+img: assets/img/nucleiseg.png
+importance: 2
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

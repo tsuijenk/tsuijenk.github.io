@@ -1,10 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: AnglerFISH
+description: A deep-learning based model for spot segmentation and co-registration
+img: assets/img/anglerfish.png
+importance: 1
 category: work
 ---
 
